@@ -23,7 +23,7 @@ dasturni ishga tushirish uchun bir necha npm pachage larni o`rnatish kerak
    ```bash
    npm start
    
-2.**Expo go ni t`lefonga o`rnatish**
+2.**Expo go ni telefonga o`rnatish**
    https://expo.dev/go ga kiring va o`rnating
    
 3.**skanerlash va ishlatish**
