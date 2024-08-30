@@ -16,12 +16,15 @@ Ilovani ishlatish uchun quyidagi talablar bajarilishi kerak:
    npm install -g expo-cli
 ## Dasturni ishga tushirish
 dasturni ishga tushirish uchun bir necha npm pachage larni o`rnatish kerak
+
 1. **barcha pachagelarni olish**
    ```bash
    npm install
    ```bash
    npm start
+   
 2.**Expo go ni t`lefonga o`rnatish**
    https://expo.dev/go ga kiring va o`rnating
+   
 3.**skanerlash va ishlatish**
  kompiyuterdagi qr ni skaner qiling va dasturni ishlating
